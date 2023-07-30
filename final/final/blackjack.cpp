@@ -2,8 +2,6 @@
 #include <random>
 #include <vector>
 #include <algorithm>
-#include <ctime>
-#include <cmath>
 #include <chrono>
 #include <thread>
 using namespace std;
